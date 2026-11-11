@@ -1,0 +1,20 @@
+{
+  "BOT_TOKEN": "ISI_TOKEN_DARI_BOTFATHER",
+  "USER_ID": "123456789",
+  "NAMA_STORE": "NAMA_TOKO_ANDA",
+  "GROUP_ID": "-1000000000000",
+  "PORT": "6970",
+  "PAYMENT": "SHOPEEPAY",
+  "GOPAY_KEY": "",
+  "DATA_QRIS_ORKUT": "",
+  "AUTH_USERNAME_ORKUT": "",
+  "AUTH_TOKEN_ORKUT": "",
+  "SHOPEEPAY_BASE_URL": "http://localhost:2007",
+  "API_BASE_URL": "https://order.rajaserver.web.id/api/v1",
+  "API_KEY": "rsl_xxxxxxxxx",
+  "REQUIRED_CHANNEL": "@CHANNEL_ANDA",
+  "REQUIRED_GROUP": "@GROUP_ANDA",
+  "ADMIN_USERNAME": "Admin",
+  "CREATOR": "Admin",
+  "ENABLE_VPNCF": true
+}
